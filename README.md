@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1I2esH2U4DtXHsNgYbUi4OL-ukV5i_1PI/view" target="_blank">
-  <img src="" 
+  <img src="https://github.com/nitinprajwal/SpotTune/blob/master/blob/ui.jpeg?raw=true" 
        alt="screenshot" 
        width="500">
 </a>
